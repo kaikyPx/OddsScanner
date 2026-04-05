@@ -4,13 +4,21 @@ dist/
 *.pyc
 *.pyo
 *.spec
-*.json
-*.csv
-*.txt
-dddf.jpeg
 .vscode/
 .idea/
 .env
 venv/
 env/
+
+# Data and Cache
+all_api_data.json
+last_snapshot.json
+active_full.json
+cadastro_data.json
+error_log.txt
+*.csv
+relatorio_*.txt
+dddf.jpeg
+
+# Subdirectory
 OddsScanner/

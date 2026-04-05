@@ -1,0 +1,238 @@
+LISTA DE LINKS E IDS DISPONÍVEIS NA API
+========================================
+
+ID: 4846 | Nome: Novibet - BR - Traffic Source - Sportsbook
+ID: 4847 | Nome: Novibet - BR - Traffic Source - Casino
+ID: 4848 | Nome: KTO - BR - Traffic Source - Sportsbook
+ID: 4849 | Nome: KTO - BR - Traffic Source - Casino
+ID: 4850 | Nome: Parimatch - BR - Traffic Source - Sportsbook
+ID: 4851 | Nome: Parimatch - BR - Traffic Source - Casino
+ID: 4852 | Nome: Superbet - BR - Traffic Source - Sportsbook
+ID: 4853 | Nome: Superbet - BR - Traffic Source - Casino
+ID: 5091 | Nome: BR4Bet - BR - Traffic Source - Sportsbook
+ID: 5092 | Nome: BR4Bet - BR - Traffic Source - Casino
+ID: 5285 | Nome: Esporete da Sorte 1
+ID: 5286 | Nome: KTO 1
+ID: 5287 | Nome: Nossabet 1
+ID: 5288 | Nome: Ana 1
+ID: 5289 | Nome: Rivalo 1
+ID: 5290 | Nome: SuperBet 1
+ID: 5291 | Nome: Parimatch 1
+ID: 5580 | Nome: QB PPC Br4bet
+ID: 5581 | Nome: QB PPC Esporte da sorte
+ID: 5582 | Nome: QB PPC KTO
+ID: 5583 | Nome: QB PPC NossaBet
+ID: 5584 | Nome: QB PPC OnaBet
+ID: 5585 | Nome: QB PPC SuperBet
+ID: 5960 | Nome: Nobretips - Superbet
+ID: 5971 | Nome: Nobretips - KTO
+ID: 5972 | Nome: Nobretips - EsportedaSorte
+ID: 5973 | Nome: Nobretips - NossaBet
+ID: 5975 | Nome: Nobretips - OnaBet
+ID: 5977 | Nome: Fred - BetNacional
+ID: 5978 | Nome: Fred - Br4Bet
+ID: 5979 | Nome: Fred - EsportedaSorte
+ID: 5980 | Nome: Fred - KTO
+ID: 5981 | Nome: Fred - NossaBet
+ID: 5982 | Nome: Fred - Onabet
+ID: 5983 | Nome: Fred - SuperBet
+ID: 6311 | Nome: Fred - Pinacle
+ID: 6318 | Nome: QB PPC Pinnacle
+ID: 6621 | Nome: TipsShow - Onabet
+ID: 6622 | Nome: TipsShow - Br4Bet
+ID: 6623 | Nome: TipsShow - SuperBet
+ID: 6785 | Nome: INSTAGRAM - KTO
+ID: 6954 | Nome: QB PPC BetWarrior
+ID: 6955 | Nome: QB PPC CampeonBet
+ID: 7312 | Nome: TrafegoAds
+ID: 7313 | Nome: TrafegoAds
+ID: 7314 | Nome: TrafegoAds
+ID: 7316 | Nome: TrafegoAds
+ID: 7317 | Nome: TrafegoAds
+ID: 7773 | Nome: Nobrebet | DAFABET 8/30 25%
+ID: 7774 | Nome: Nobrebet | CAMPEONBET 8/35 25%
+ID: 7775 | Nome: Nobrebet | BETNACIONAL 15%
+ID: 7776 | Nome: Nobrebet | MR.JACKBET 15%
+ID: 7777 | Nome: Nobrebet | NOSSABET 20%
+ID: 7778 | Nome: Nobrebet | SUPERBET 9/20 20%
+ID: 7779 | Nome: Nobrebet | NOVIBET 8/25 25%
+ID: 7780 | Nome: Nobrebet | ONABET 9/20 25%
+ID: 7781 | Nome: Nobrebet | ESPORTES DA SORTE 9/20 25%
+ID: 7782 | Nome: Nobrebet | BR4BET 8/20
+ID: 8182 | Nome: Nobrebet | KTO 8/35 20%
+ID: 8444 | Nome: TipsShow - KTO
+ID: 8446 | Nome: PRScore - KTO
+ID: 8447 | Nome: PRScore - SuperBet
+ID: 8448 | Nome: PRScore - OnaBet
+ID: 8450 | Nome: PRScore - Esporte da Sorte
+ID: 8597 | Nome: Fred - Campeon
+ID: 8868 | Nome: CampeonBet
+ID: 8869 | Nome: CampeonBet - PrScore
+ID: 13265 | Nome: bateubet
+ID: 13374 | Nome: teste
+ID: 13375 | Nome: DG. EstrelaBet
+ID: 13376 | Nome: teste
+ID: 13817 | Nome: SEO cy
+ID: 13848 | Nome: seo cy
+ID: 14079 | Nome: Esporte da Sorte #46
+ID: 14080 | Nome: onabet #46
+ID: 14081 | Nome: superbet #46
+ID: 14083 | Nome: bateubet #46
+ID: 14084 | Nome: estrelabet #46
+ID: 14195 | Nome: stake #46
+ID: 15385 | Nome: Fred - EstrelaBet
+ID: 15386 | Nome: Fred Ring - AlfaBet
+ID: 15388 | Nome: Fred Ring - LottoLand
+ID: 15672 | Nome: PPC cy
+ID: 15673 | Nome: PPC cy
+ID: 15674 | Nome: PPC cy
+ID: 15675 | Nome: PPC cy
+ID: 15992 | Nome: Remarketing D
+ID: 16015 | Nome: Remarketing D2
+ID: 16019 | Nome: Palpites ALS SUPERBET
+ID: 16040 | Nome: Betsson MX
+ID: 16148 | Nome: DG.SuperBet
+ID: 16940 | Nome: Esporte da Sorte #79
+ID: 16948 | Nome: Lottoland
+ID: 16952 | Nome: Lottoland
+ID: 16965 | Nome: onaet
+ID: 16966 | Nome: superbet
+ID: 16968 | Nome: stake
+ID: 16969 | Nome: esporte da sorte
+ID: 16970 | Nome: estrelabet
+ID: 16972 | Nome: f12bet
+ID: 16974 | Nome: lottoland
+ID: 16975 | Nome: sorteonline
+ID: 16978 | Nome: lottoland
+ID: 16981 | Nome: onabet
+ID: 16982 | Nome: esporte da sorte
+ID: 16983 | Nome: lottoland
+ID: 16984 | Nome: sorteonline
+ID: 17016 | Nome: twitter
+ID: 17017 | Nome: telegram
+ID: 17018 | Nome: fligth
+ID: 17033 | Nome: Jonathan #102
+ID: 17035 | Nome: Jonathan #102
+ID: 17038 | Nome: esporte da sorte
+ID: 17039 | Nome: superbet
+ID: 17065 | Nome: Stake #79
+ID: 17067 | Nome: Lottoland #46
+ID: 17068 | Nome: Sorte Online #46
+ID: 17069 | Nome: f12bet #46
+ID: 17104 | Nome: Onabet #84
+ID: 17105 | Nome: lottoland #84
+ID: 17106 | Nome: estrelabet #84
+ID: 17107 | Nome: sorteonline #84
+ID: 17873 | Nome: teste
+ID: 17876 | Nome: Melbet #84
+ID: 17877 | Nome: Melbet #77
+ID: 17878 | Nome: Melbet #65
+ID: 17880 | Nome: Melbet #94
+ID: 18739 | Nome: Superbet #91
+ID: 18740 | Nome: Stake #91
+ID: 18991 | Nome: Onabet #94
+ID: 18992 | Nome: SorteOnline #94
+ID: 19068 | Nome: Jonathan #102
+ID: 19069 | Nome: Jonathan #102
+ID: 19071 | Nome: Lucas #109
+ID: 19072 | Nome: Lucas #109
+ID: 19073 | Nome: Lucas #109
+ID: 19074 | Nome: Lucas #109
+ID: 19092 | Nome: Jonathan #102
+ID: 19163 | Nome: Daniel #108
+ID: 19194 | Nome: Luis Fernando #112
+ID: 19195 | Nome: Luis Fernando #112
+ID: 19196 | Nome: Luis Fernando #112
+ID: 19246 | Nome: Pedro Bertechini #111
+ID: 19297 | Nome: Lucas #109
+ID: 19299 | Nome: Lucas #109
+ID: 19316 | Nome: Pedro Ivan #90
+ID: 19319 | Nome: Arthur #46
+ID: 19324 | Nome: William #55
+ID: 19535 | Nome: Gabrieli #110
+ID: 19536 | Nome: Gabrieli #110
+ID: 19537 | Nome: Gabrieli #110
+ID: 19538 | Nome: Gabrieli #110
+ID: 19540 | Nome: Gabrieli #110
+ID: 19541 | Nome: Gabrieli #110
+ID: 19542 | Nome: Gabrieli #110
+ID: 19543 | Nome: Gabrieli #110
+ID: 19546 | Nome: Yan (Denise sincera) #105
+ID: 19619 | Nome: lotogreen
+ID: 19620 | Nome: blaze
+ID: 19633 | Nome: Arthur #46
+ID: 19684 | Nome: Jonathan #102
+ID: 19685 | Nome: Jonathan #102
+ID: 19692 | Nome: Leonardo #118
+ID: 19693 | Nome: Leonardo #118
+ID: 19694 | Nome: Leonardo #118
+ID: 19695 | Nome: Leonardo #118
+ID: 19698 | Nome: Leonardo #118
+ID: 19703 | Nome: Robert #84
+ID: 19704 | Nome: Robert #84
+ID: 19723 | Nome: Gabrieli #110
+ID: 19724 | Nome: Gabrieli #110
+ID: 19725 | Nome: Betboom
+ID: 19734 | Nome: Lottoland
+ID: 19735 | Nome: BetBoom
+ID: 19838 | Nome: Ana Paula #114
+ID: 19839 | Nome: campeonbet
+ID: 19854 | Nome: Arthur #46
+ID: 19855 | Nome: Iury #65
+ID: 19856 | Nome: Mizael #94
+ID: 19857 | Nome: Gabrieli #110
+ID: 19858 | Nome: Iury #65
+ID: 19859 | Nome: Gabrieli #110
+ID: 19860 | Nome: Luis FErnando #112
+ID: 19861 | Nome: Luis FErnando #112
+ID: 19909 | Nome: Lucas #109
+ID: 19947 | Nome: william #55
+ID: 19999 | Nome: Leonardo #118
+ID: 20000 | Nome: Leonardo #118
+ID: 20019 | Nome: Ana Paula #114
+ID: 20038 | Nome: 1
+ID: 20089 | Nome: Iury #65
+ID: 20091 | Nome: Lucas #109
+ID: 20092 | Nome: Michael #123
+ID: 20093 | Nome: Pedro Ivan #90
+ID: 20094 | Nome: Pedro Ivan #90
+ID: 20095 | Nome: Pedro Ivan #90
+ID: 20096 | Nome: Pedro Ivan #90
+ID: 20099 | Nome: Lucas #109
+ID: 20249 | Nome: Teste BETSlip
+ID: 20250 | Nome: Jordan #67
+ID: 20252 | Nome: Jonathan #102
+ID: 20452 | Nome: Arthur #46
+ID: 20456 | Nome: Robert #84
+ID: 20459 | Nome: Pedro Ivan #90
+ID: 20461 | Nome: Pedro Ivan #90
+ID: 20463 | Nome: Gabrieli #110
+ID: 20465 | Nome: Robert #84
+ID: 20468 | Nome: Jonathan #102
+ID: 20478 | Nome: Leonardo #118
+ID: 20528 | Nome: Pedro Ivan #90
+ID: 20529 | Nome: Lucas #109
+ID: 20581 | Nome: Marlon #56
+ID: 20582 | Nome: Marlon #56
+ID: 20583 | Nome: Marlon #56
+ID: 20584 | Nome: Marlon #56
+ID: 20585 | Nome: Marlon #56
+ID: 20586 | Nome: Marlon #56
+ID: 20587 | Nome: Marlon #56
+ID: 20589 | Nome: Marlon #56
+ID: 20590 | Nome: Marlon #56
+ID: 20689 | Nome: Iury #65
+ID: 20801 | Nome: Fernanda #126
+ID: 20802 | Nome: Fernanda #126
+ID: 20917 | Nome: Jordan #67
+ID: 20962 | Nome: Jonathan #102
+ID: 20968 | Nome: Jonathan #102
+ID: 21107 | Nome: Vovotecabr #132
+ID: 21111 | Nome: William #130
+ID: 21148 | Nome: Edson #57
+ID: 21194 | Nome: Allan #138
+ID: 21195 | Nome: Allan #138
+ID: 21196 | Nome: Allan #138
+ID: 21198 | Nome: Allan #138
+ID: 21200 | Nome: Allan #138
+ID: 21201 | Nome: Allan #138

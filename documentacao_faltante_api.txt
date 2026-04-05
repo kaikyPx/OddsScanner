@@ -1,0 +1,48 @@
+# DOCUMENTAÇÃO DE INTEGRAÇÃO - GESTOR ODDSSCANNER
+
+Este documento detalha o fluxo técnico de como o sistema consome os dados e identifica a ausência da Betfair e SeguroBet.
+
+## 1. Configurações de Acesso
+O sistema utiliza a API de parceiros da OddsScanner para consolidar os dados de todos os afiliados.
+- **Base URL:** `https://api-partners.oddsscanner.com`
+- **Autenticação:** Header `X-API-Key: IL44...16To`
+
+---
+
+## 2. Rotas Utilizadas
+
+### A. Rota de Relatórios de Fontes (Traffic Sources)
+Esta é a rota principal que o sistema consulta para pegar o resumo de performance por casa de aposta.
+- **Endpoint:** `/api/v1/reports/sources`
+- **Objetivo:** Retorna uma lista de objetos contendo `advertiser_name` (Nome da Casa) e `metrics` (Cliques, Depósitos, Receita).
+
+### B. Rota de Detalhes de Links
+Usada para cruzar os IDs de links que estão no seu `cadastro.json` com os dados reais de tráfego.
+- **Endpoint:** `/api/v1/reports/affiliate-links`
+- **Objetivo:** Validar se um link específico (Ex: ID 20954) gerou conversão.
+
+---
+
+## 3. Onde está o problema (Betfair e SeguroBet)
+
+Ao executarmos uma busca exaustiva (paginando todos os resultados da API sem filtro de data), o comportamento observado é o seguinte:
+
+1. **Filtro por Anunciante (`advertiser_name`):**
+   - O sistema recebe nomes como: `F12.bet - BR`, `Stake - BR`, `Parimatch - BR`, etc.
+   - **ERRO:** Os termos "Betfair" ou "SeguroBet" (ou variações como "Segura") NUNCA aparecem na lista de anunciantes retornada pela API.
+
+2. **Filtro por IDs de Link:**
+   - No seu arquivo de cadastro, temos entradas para Betfair e SeguroBet.
+   - Quando o sistema pergunta à API: *"Me dê os dados do link ID X (referente à Betfair)"*, a API retorna um JSON vazio ou não encontra o registro correspondente dentro do pool de dados de afiliados.
+
+---
+
+## 4. Conclusão Técnica
+A falha não é no código do Bot, mas sim na **Fonte de Dados (Upstream)**. 
+
+Os dados dessas duas casas não estão sendo injetados no feed da OddsScanner. Para que o Bot consiga lê-los, a OddsScanner precisaria:
+1. Ativar o tracking dessas casas na sua conta de parceiro.
+2. Garantir que os nomes `Betfair` e `SeguroBet` sejam exportados no campo `advertiser_name` da API.
+
+---
+*Gerado automaticamente para análise de integração - 23/03/2026*
