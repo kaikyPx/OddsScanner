@@ -1,0 +1,16 @@
+__pycache__/
+build/
+dist/
+*.pyc
+*.pyo
+*.spec
+*.json
+*.csv
+*.txt
+dddf.jpeg
+.vscode/
+.idea/
+.env
+venv/
+env/
+OddsScanner/
